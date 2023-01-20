@@ -1,0 +1,11 @@
+[Fold: 0 Epoch 0: Avg test acc: {'accuracy': 0.7986394557823129}, Avg test f1: {'f1': 0.7963372462619364}, Fold: 0 Epoch 1: Avg test acc: {'accuracy': 0.7986394557823129}, Avg test f1: {'f1': 0.7963372462619364},
+Fold: 0 Epoch 2: Avg test acc: {'accuracy': 0.7986394557823129}, Avg test f1: {'f1': 0.7963372462619364},Fold: 0 Epoch 3: Avg test acc: {'accuracy': 0.7986394557823129}, Avg test f1: {'f1': 0.7963372462619364},
+Fold: 1 Epoch 0: Avg test acc: {'accuracy': 0.8068027210884354}, Avg test f1: {'f1': 0.80481108583454},Fold: 1 Epoch 1: Avg test acc: {'accuracy': 0.8068027210884354}, Avg test f1: {'f1': 0.80481108583454},
+Fold: 1 Epoch 2: Avg test acc: {'accuracy': 0.8081632653061225}, Avg test f1: {'f1': 0.8073008198577495}, Fold: 1 Epoch 3: Avg test acc: {'accuracy': 0.8068027210884354}, Avg test f1: {'f1': 0.8053161562420564},
+Fold: 2 Epoch 0: Avg test acc: {'accuracy': 0.8054421768707483}, Avg test f1: {'f1': 0.804334363518037},Fold: 2 Epoch 1: Avg test acc: {'accuracy': 0.8054421768707483}, Avg test f1: {'f1': 0.804334363518037},
+Fold: 2 Epoch 2: Avg test acc: {'accuracy': 0.8054421768707483}, Avg test f1: {'f1': 0.804334363518037}, Fold: 2 Epoch 3: Avg test acc: {'accuracy': 0.8136054421768707}, Avg test f1: {'f1': 0.8120490340371841},
+Fold: 3 Epoch 0: Avg test acc: {'accuracy': 0.7933514986376021}, Avg test f1: {'f1': 0.7906401975848346}, Fold: 3 Epoch 1: Avg test acc: {'accuracy': 0.7947138964577657}, Avg test f1: {'f1': 0.79208453448117},
+Fold: 3 Epoch 2: Avg test acc: {'accuracy': 0.7947138964577657}, Avg test f1: {'f1': 0.79208453448117}, Fold: 3 Epoch 3: Avg test acc: {'accuracy': 0.7947138964577657}, Avg test f1: {'f1': 0.79208453448117},
+Fold: 4 Epoch 0: Avg test acc: {'accuracy': 0.8133514986376021}, Avg test f1: {'f1': 0.8059921910011829}, Fold: 4 Epoch 1: Avg test acc: {'accuracy': 0.8133514986376021}, Avg test f1: {'f1': 0.8059921910011829},
+Fold: 4 Epoch 2: Avg test acc: {'accuracy': 0.8133514986376021}, Avg test f1: {'f1': 0.8059921910011829}, Fold: 4 Epoch 3: Avg test acc: {'accuracy': 0.8133514986376021}, Avg test f1: {'f1': 0.8059921910011829},
+0.80275274]
