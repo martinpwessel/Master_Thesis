@@ -24,13 +24,13 @@ The code is structured as follows:
 
 ProxyTask - contains the training and testing Code for the Proxy Task as well as the results for every model and fold  
 Experiment - contains the training and testing Code for the Experiment:  
-	  	Batch_size.ipynb - Script that analysis the optimal batch size  
-	  	Text_length.ipynb - Calls MBDataLoader and analyzes the text length for one task  
-		MBDataLoader.py - Script to combine datasets for each task, prepocesses and balances the data  
-	  	MBWrapper.py - Wrapper for one training and testing, loads data and initializes stratified k-fold  
-		MBTraining.py - Main training script for one fold  
-	  	ModelSpecifications.py - sets the main model parameters  
-	   	Scripts - Contains the scripts run on the cluster  
+	  	\t Batch_size.ipynb - Script that analysis the optimal batch size  
+	  	\t Text_length.ipynb - Calls MBDataLoader and analyzes the text length for one task  
+		\t MBDataLoader.py - Script to combine datasets for each task, prepocesses and balances the data  
+	  	\t MBWrapper.py - Wrapper for one training and testing, loads data and initializes stratified k-fold  
+		\t MBTraining.py - Main training script for one fold  
+	  	\t ModelSpecifications.py - sets the main model parameters  
+	   	\t Scripts - Contains the scripts run on the cluster  
 Preprocessing - Contains preprocessing scripts for every dataset  
 Results - Results of the experiment for every fold   
 Analysis - Contains scripts for the visualizations in the thesis as well as summarized results  
