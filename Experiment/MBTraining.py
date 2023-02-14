@@ -156,7 +156,7 @@ class ModelTraining:
         
         print(f'Training Initialized for fold {fold}')
         # Initialize Weights & Biases
-        wandb.login(key = "cf92a015b88020c5706b90817fdee3566cb8c5e5", relogin = True)
+        wandb.login(key = "", relogin = True) # Insert Wandb key here
         wandb.init(project="MBG-Model-testing-" + str(self.category) + str(self.model_name), reinit=True)
         wandb.config = {
             "learning_rate": learning_rate,
